@@ -1,2 +1,2 @@
 #Sample website
-This the tutorial "Learn Enough Git to be dangerous"
+In this tutorial you will Learn Enough Git to be dangerous 😎
